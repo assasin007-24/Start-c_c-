@@ -1,6 +1,6 @@
 # Compilare
 Compilare program C in .exe
-`bash
+`
 gcc nume-fisier.c
 `
 # Rulare
