@@ -11,5 +11,5 @@ rulare .exe fisier in terminal
 
 se mai poate sa fie cu un nume default `a.exe` atunci folosim comanda
 `
-./a.exe`
+./a`
 pentru rulare
